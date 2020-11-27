@@ -8,7 +8,7 @@ class App extends Component {
         {" "}
         {/* Container needs a height.. */}
         <ReactReader
-          url={"/Basic Technology for Junior  Secondary Schools, Book 3.epub"}
+          url={"/alice.epub"}
           title={"Alice in wonderland"}
           location={0}
           locationChanged={(epubcifi) => console.log(epubcifi)}
